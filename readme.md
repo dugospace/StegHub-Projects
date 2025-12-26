@@ -355,7 +355,7 @@ I successfully logged in using `admin` / `admin`.
 
 * **"Access denied"**: Resolved by correctly granting permissions to the `admin` user from any host (`%`) on the `tooling` database within the MySQL server.
 
-This concludes the deployment of the highly available 3-tier web application.
+This concludes the deployment of the highly available 3-tier web application..
 
 ![Admin Dashboard](./IMAGES/Picture33.png)
 ![](./IMAGES/gg.png)
